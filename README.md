@@ -26,5 +26,5 @@ AI Engineer
 
 
 ### 💻 Workspace Spec
-<img height="50" src="https://tse2.mm.bing.net/th?id=OIP.d-7qnuVzKe0WZpKUDDQtfAHaCx&pid=Api&P=0&h=220"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>  <img height="50" src="https://cdn.benchmark.pl/uploads/products/11455/intel-core-i5-10gen.png"/> 
+[![MOHAMMED ARSHATH's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammedarshath-a&bg_color=202020&color=ffffff&line=e15672&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
 

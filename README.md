@@ -2,7 +2,7 @@
 
 AI Engineer
 <img align="right" width="200" height="200" src="https://cdn-icons-png.flaticon.com/512/5278/5278402.png">
-- 🔭 Here's my [portfolio]src='https://arshath-7afd2.web.app/'                                            
+- 🔭 Here's my [portfolio] https://arshath-7afd2.web.app/                                          
 - 🌱 I’m currently learning DSA
 - 👯 I’m looking to collaborate on AI/ML/DS
 - 🤔 I’m looking for help with Placements in FAANG
